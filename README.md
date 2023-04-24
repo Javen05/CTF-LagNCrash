@@ -8,3 +8,5 @@ Group Placement: 58/87
 ### Group Statistics:
 ![Category Breakdown (1)](https://user-images.githubusercontent.com/107395637/232308518-11205ac9-2225-4ded-9d9c-582b53c1368a.png)
 ![Score over Time (1)](https://user-images.githubusercontent.com/107395637/232308522-ac99de93-db3c-4648-9d51-37f9401e580f.png)
+
+[![Badge](https://media.badgr.com/uploads/badges/assertion-mhp5vAh2RnaThU3slyhKzg.png)](https://api.badgr.io/public/assertions/mhp5vAh2RnaThU3slyhKzg)
